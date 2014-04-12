@@ -1,0 +1,77 @@
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+C:\C#_WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+C:\C#\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+C:\C#\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+C:\C#\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+C:\C#\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+C:\C#\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+C:\C#\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+C:\C#\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+D:\C#\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+D:\C#\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+D:\C#\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+D:\C#\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+D:\C#\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+D:\C#\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+D:\C#\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+D:\New folder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+D:\Matlab-WorkFolder\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+C:\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.dll
+C:\ModotRealtimeData\BasicImportData\bin\Debug\BasicImportData.pdb
+C:\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.dll
+C:\ModotRealtimeData\BasicImportData\bin\Debug\CommonFiles.pdb
+C:\ModotRealtimeData\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+C:\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.dll
+C:\ModotRealtimeData\BasicImportData\obj\Debug\BasicImportData.pdb
+C:\ModotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.dll
+C:\ModotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.pdb
+C:\ModotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.dll
+C:\ModotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.pdb
+C:\ModotRealtimeProgram\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+C:\ModotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.dll
+C:\ModotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.pdb
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.dll
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.pdb
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.dll
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.pdb
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.dll
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.pdb
+C:\MySVN\AdotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.dll
+C:\MySVN\AdotRealtimeProgram\BasicImportData\bin\Debug\BasicImportData.pdb
+C:\MySVN\AdotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.dll
+C:\MySVN\AdotRealtimeProgram\BasicImportData\bin\Debug\CommonFiles.pdb
+C:\MySVN\AdotRealtimeProgram\BasicImportData\obj\Debug\ResolveAssemblyReference.cache
+C:\MySVN\AdotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.dll
+C:\MySVN\AdotRealtimeProgram\BasicImportData\obj\Debug\BasicImportData.pdb

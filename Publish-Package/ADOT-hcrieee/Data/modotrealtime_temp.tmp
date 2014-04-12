@@ -1,0 +1,2830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResponseRcv xmlns="http://www.IM-AZTechRADS-03-00-44b" xmlns:ns2="http://www.JXDD-Partial-00-00-00" xmlns:ns3="http://www.ATIS-Draft-03-00-79" xmlns:ns4="http://www.IM-Local-03-00-44a" xmlns:ns5="http://www.LRMS-Adopted-02-00-00" xmlns:ns6="http://www.LRMS-Local-02-00-00" xmlns:ns7="http://www.ITIS-Adopted-03-00-02">
+    <iMWrapper>
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>14113161</senderIncidentID>
+                <sender>
+                    <person>
+                        <agencyName>PhxFireEMS</agencyName>
+                        <agencyResponsible>City of Glendale</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>N 73RD AV/W CAMELBACK RD ,GLN</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33509052</ns5:latitude>
+<ns5:longitude>-112215438</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsPoint>
+<ns5:onStreetInfo>
+    <ns5:name>N 73RD AV</ns5:name>
+</ns5:onStreetInfo>
+<ns5:atStreetInfo>
+    <ns5:name>W CAMELBACK RD ,GLN</ns5:name>
+</ns5:atStreetInfo>
+                            </ns5:crossStreetsPoint>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:accidentsAndIncidents>injury accident</ns7:accidentsAndIncidents>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-12T00:48:38.000-07:00</timePoint>
+                    <count>31048</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.071-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <respStatusOtherText>Routine Incident</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>alarm level=1</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respEquipTypOther>engine=0</respEquipTypOther>
+                    </responseReport>
+                    <responseReport>
+                        <respEquipTypOther>truck or aerial=1</respEquipTypOther>
+                    </responseReport>
+                    <responseReport>
+                        <respEquipTypOther>ambulance=1</respEquipTypOther>
+                    </responseReport>
+                    <responseReport>
+                        <respEquipTypOther>chief officer car=0</respEquipTypOther>
+                    </responseReport>
+                    <responseReport>
+                        <respEquipTypOther>other=0</respEquipTypOther>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4024</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Ocotillo Rd From Gilbert Rd To Rincon Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33248320</ns5:latitude>
+<ns5:longitude>-111787928</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Ocotillo Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Gilbert Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Rincon Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>401</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.103-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-01-26T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-17T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=City of Chandler restriction - lane shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4224</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Dysart Rd From Camelback Rd To San Miguel Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33512953</ns5:latitude>
+<ns5:longitude>-112340956</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Dysart Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Camelback Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>San Miguel Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>402</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.112-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right two lanes closed in the southbound direction</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4225</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Litchfield Rd From Thunderbird St To Lightning St</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33542473</ns5:latitude>
+<ns5:longitude>-112358481</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Litchfield Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Thunderbird St</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Lightning St</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>403</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.121-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right lane closed in both directions</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4268</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 91st Ave From 400-feet El Caminito Dr To 300-feet N of Butler Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33558055</ns5:latitude>
+<ns5:longitude>-112255006</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>91st Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>400-feet El Caminito Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>300-feet N of Butler Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:restrictionClass>restrictions</ns7:restrictionClass>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>404</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.131-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-10T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Nesbitt Contracting is doing roadwork which will restrict north and southbound traffic.
+Butler Drive will be restricted for east and westbound traffic.
+Contact: 602-980-8633</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Unknown</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4273</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On El Mirage Rd From Solano Dr To Keim Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33522004</ns5:latitude>
+<ns5:longitude>-112323935</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>El Mirage Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Solano Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Keim Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>405</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.142-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-09T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Lane shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4274</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Alma School Rd From Chandler Heights Rd To Desert Gull Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33240142</ns5:latitude>
+<ns5:longitude>-111864648</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Alma School Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Chandler Heights Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Desert Gull Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>406</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.151-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-21T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right lane closed 8in northbound direction</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4096</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Broadway Rd From 80th St To 83rd Pl</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33407885</ns5:latitude>
+<ns5:longitude>-111655247</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Broadway Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>80th St</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>83rd Pl</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:restrictionClass>restrictions</ns7:restrictionClass>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>408</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.161-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-16T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=lanes to south side of road</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Unknown</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4271</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 91st Ave From 5-feet Butler Dr To 1000-feet S of Olive Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33561242</ns5:latitude>
+<ns5:longitude>-112255047</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>91st Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>5-feet Butler Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>1000-feet S of Olive Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>407</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.172-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-19T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Nesbitt Contracting is doing roadwork which will restrict north and southbound traffic.
+Contact: 602-980-8633</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4278</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Lake Pleasant Pkwy From 5-feet Happy Valley Rd To 500-feet N of Westwing Pkwy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33724579</ns5:latitude>
+<ns5:longitude>-112267496</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Lake Pleasant Pkwy</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>5-feet Happy Valley Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>500-feet N of Westwing Pkwy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>409</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.181-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-09T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is making sidewalk improvements which will restrict north and southbound traffic.
+Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4275</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Chandler Heights Rd From 500-feet Alma School Rd To Alma School Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33232802</ns5:latitude>
+<ns5:longitude>-111857574</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Chandler Heights Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>500-feet Alma School Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Alma School Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>410</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.190-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-21T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=lane shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4276</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On El Mirage Rd From Bola Dr To Bell Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33637169</ns5:latitude>
+<ns5:longitude>-112324784</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>El Mirage Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Bola Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Bell Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road maintenance operations</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>411</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.199-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-11T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-12T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=road closed only at night  from 8PM to 9AM
+MCDOT 24-hour Construction Hotline 480-350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4132</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Lake Pleasant Pkwy From 300-feet Cibola Vista Dr To 5-feet S of SR 303</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33751346</ns5:latitude>
+<ns5:longitude>-112255167</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Lake Pleasant Pkwy</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>300-feet Cibola Vista Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>5-feet S of SR 303</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>413</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.209-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-02-03T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-15T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is doing roadwork which will restrict north and southbound traffic.
+Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4077</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Gilbert Rd From Ocotillo Rd To Chandler Blvd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33277351</ns5:latitude>
+<ns5:longitude>-111789685</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Gilbert Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Ocotillo Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Chandler Blvd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>412</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.218-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2013-12-20T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-06-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=City of Chandler Restriction - lane shift road construction</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4157</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Riggs Rd From Old Price Rd To Dobson Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33217968</ns5:latitude>
+<ns5:longitude>-111884534</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Riggs Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Old Price Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Dobson Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>414</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.227-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-02-12T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-16T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=A series of right and left lane closures</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4091</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Jomax Rd From 200-feet Pleasant Valley Dr To 200-feet E of Lake Pleasant Pkwy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33724957</ns5:latitude>
+<ns5:longitude>-112268465</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Jomax Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>200-feet Pleasant Valley Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>200-feet E of Lake Pleasant Pkwy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>415</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.236-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-13T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-16T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is doing roadway improvements which will restrict east and westbound traffic.
+Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4213</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 91st Ave From 300-feet Butler Dr To 1100-feet S of Olive Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33561510</ns5:latitude>
+<ns5:longitude>-112255048</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>91st Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>300-feet Butler Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>1100-feet S of Olive Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>416</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.245-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-21T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-14T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Nesbitt Contracting is installing a sewer which will restrict north and southbound traffic.
+Contact: 602-980-8633</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4239</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Thunderbird Blvd From Lancaster Dr To Tumblebrook Wy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33608823</ns5:latitude>
+<ns5:longitude>-112270913</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Thunderbird Blvd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Lancaster Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Tumblebrook Wy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>417</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.254-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-20T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-14T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right lane closed in both directions</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4279</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Jomax Rd From 200-feet Pleasant Valley Dr To 200-feet E of Lake Pleasant Pkwy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33724957</ns5:latitude>
+<ns5:longitude>-112268465</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Jomax Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>200-feet Pleasant Valley Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>200-feet E of Lake Pleasant Pkwy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>418</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.263-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-09T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-06-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is making improvements which will restrict east and westbound traffic.
+Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4259</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Bell Rd From Village Dr To 115th Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33638683</ns5:latitude>
+<ns5:longitude>-112317647</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Bell Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Village Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>115th Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>419</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.272-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-28T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-25T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=a series of lane closures, expect delays
+DOT 24-hour Construction Hotline:  (480) 350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4282</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 83rd Dr From 5-feet Jefferson St To 200-feet N of Jefferson St</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33579695</ns5:latitude>
+<ns5:longitude>-112238941</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>83rd Dr</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>5-feet Jefferson St</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>200-feet N of Jefferson St</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>420</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.281-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=DBA Construction is installing a new sidewalk which will restrict northbound traffic.
+Contact: 602-315-9844</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4283</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On El Mirage Rd From Picerne Dr To Bell Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33636371</ns5:latitude>
+<ns5:longitude>-112324792</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>El Mirage Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Picerne Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Bell Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road maintenance operations</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>421</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.290-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-15T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-16T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Road closed due to construction. 
+MCDOT 24-hour Construction Hotline 480-350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4265</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Pecos Rd From Emmett Dr To Gilbert Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33291872</ns5:latitude>
+<ns5:longitude>-111794002</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Pecos Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Emmett Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Gilbert Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>422</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.299-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-03T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=City of Chandler Restrictions - various restrictions sewer line work</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4284</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Bell Rd From Village Dr To Coyote Lakes Pkwy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33638683</ns5:latitude>
+<ns5:longitude>-112317989</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Bell Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Village Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Coyote Lakes Pkwy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>423</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.308-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-15T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-16T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=restricted to one lane travel in each direction
+MCDOT 24-hour Construction Hotline 480-350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4266</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Alma School Rd From Spring Creek Rd To Riggs Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33216168</ns5:latitude>
+<ns5:longitude>-111858419</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Alma School Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Spring Creek Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Riggs Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>424</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.317-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-06-27T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript= various restrictions for intersection improvements at Alma School and Michigan Ave.
+MCDOT 24 Hour Construction Hotline 480-350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4267</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Michigan Ave From Saddletree Dr To Boxwood Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33216272</ns5:latitude>
+<ns5:longitude>-111859404</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Michigan Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Saddletree Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Boxwood Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>426</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.327-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-06-27T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript= various restrictions for intersection improvements at Alma School and Michigan Ave.
+MCDOT 24 Hour Construction Hotline 480-350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4285</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Miller Rd From 1000-feet Broadway Rd To Broadway Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33405092</ns5:latitude>
+<ns5:longitude>-112590894</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Miller Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>1000-feet Broadway Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Broadway Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>425</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.336-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Lane shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4286</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On University Dr From Mountain Rd To Meridian Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33422294</ns5:latitude>
+<ns5:longitude>-111584993</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>University Dr</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Mountain Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Meridian Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>428</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.345-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-15T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=flagging operation</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4260</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On El Mirage Rd From Picerne Dr To Bell Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33636371</ns5:latitude>
+<ns5:longitude>-112324792</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>El Mirage Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Picerne Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Bell Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>427</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.354-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-28T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-25T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=a series of lane closures, expect delays
+M
+DOT 24-hour Construction Hotline:  (480) 350-9288</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4262</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 75th Ave From 5-feet Northern Ave To 200-feet S of Northern Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33552695</ns5:latitude>
+<ns5:longitude>-112220304</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>75th Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>5-feet Northern Ave</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>200-feet S of Northern Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>429</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.363-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-31T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=NPL is making a gasline repair which will restrict south and eastbound traffic.
+Contact: 602-768-5020</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4220</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Plaza Del Rio Blvd From 200-feet Dreyfus Dr To 200-feet N of Dreyfus Dr</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33602958</ns5:latitude>
+<ns5:longitude>-112260666</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Plaza Del Rio Blvd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>200-feet Dreyfus Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>200-feet N of Dreyfus Dr</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>430</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.372-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-17T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-21T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Temcon is installing new driveways which will restrict northbound traffic.
+Contact: 602-763-6390</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4223</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Dysart Rd From Missouri Ave To Bethany Home Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33518738</ns5:latitude>
+<ns5:longitude>-112340968</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Dysart Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Missouri Ave</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Bethany Home Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>431</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.381-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-14T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=left lane closed in both directions</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4240</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Power Rd From 1000-feet Riggs Rd To Riggs Rd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33218186</ns5:latitude>
+<ns5:longitude>-111685876</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Power Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>1000-feet Riggs Rd</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Riggs Rd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>432</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.390-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-24T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Lane Shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4166</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On 99th Ave From 1000-feet Northern Ave To Northern Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33549986</ns5:latitude>
+<ns5:longitude>-112272529</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>99th Ave</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>1000-feet Northern Ave</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Northern Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>433</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.399-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-07T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-14T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=lane shift</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4280</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Lake Pleasant Pkwy From 600-feet Cibola Vista Dr To 600-feet N of Westwing Pkwy</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33736438</ns5:latitude>
+<ns5:longitude>-112263149</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Lake Pleasant Pkwy</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>600-feet Cibola Vista Dr</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>600-feet N of Westwing Pkwy</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>436</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.408-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-09T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is doing roadwork which will restrict north and southboud traffic. Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4245</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On El Mirage Rd From Pima St To MC 85</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33433489</ns5:latitude>
+<ns5:longitude>-112323714</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>El Mirage Rd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Pima St</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>MC 85</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>435</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.417-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-26T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-18T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right lane closed in the northbound direction</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4141</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On R H Johnson Blvd From Camino Del Sol To Meeker Blvd</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33659561</ns5:latitude>
+<ns5:longitude>-112354682</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>R H Johnson Blvd</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>Camino Del Sol</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>Meeker Blvd</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>434</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.426-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-02-17T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-04-17T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=right lane closed in westbound direction</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Permit</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4281</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Peoria</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Peoria</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On Westwing Pkwy From 5-feet Lake Pleasant Pkwy To 5-feet W of 91st Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33737627</ns5:latitude>
+<ns5:longitude>-112259462</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>Westwing Pkwy</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>5-feet Lake Pleasant Pkwy</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>5-feet W of 91st Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>438</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.435-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-04-09T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-30T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=Ames Construction is doing roadwork which will restrict east and westbound traffic.
+Contact: 602-350-8262</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+        <publicIncidentDescription>
+
+            <header>
+                <senderIncidentID>4244</senderIncidentID>
+                <sender>
+                    <person>
+                        <personData>
+                            <ns2:name>Barbara Hauser</ns2:name>
+                        </personData>
+                        <agencyName>RCRSLite</agencyName>
+                        <agencyResponsible>Maricopa County</agencyResponsible>
+                    </person>
+                </sender>
+                <basics>
+                    <incidentLoc>
+                        <ns5:locationName>On MC 85 From 203rd Ave To 193rd Ave</ns5:locationName>
+                        <ns5:geoCoord>
+                            <ns5:geoLocationPoint>
+<ns5:latitude>33377551</ns5:latitude>
+<ns5:longitude>-112479332</ns5:longitude>
+<ns5:horizontalDatum>nad83</ns5:horizontalDatum>
+                            </ns5:geoLocationPoint>
+                        </ns5:geoCoord>
+                        <ns5:crossStreets>
+                            <ns5:crossStreetsLink>
+<ns5:onStreetInfo>
+    <ns5:name>MC 85</ns5:name>
+</ns5:onStreetInfo>
+<ns5:fromStreetInfo>
+    <ns5:name>203rd Ave</ns5:name>
+</ns5:fromStreetInfo>
+<ns5:toStreetInfo>
+    <ns5:name>193rd Ave</ns5:name>
+</ns5:toStreetInfo>
+                            </ns5:crossStreetsLink>
+                        </ns5:crossStreets>
+                    </incidentLoc>
+                    <typeEvent>
+                        <ns7:roadwork>road construction</ns7:roadwork>
+                    </typeEvent>
+                </basics>
+                <issueTime>
+                    <timePoint>2014-04-11T21:16:03.070-07:00</timePoint>
+                    <count>437</count>
+                    <issueType>update</issueType>
+                </issueTime>
+                <updateTime>2014-04-12T01:26:05.445-07:00</updateTime>
+            </header>
+            <idxSubParts>
+                <responseReports>
+                    <responseReport>
+                        <header>
+                            <updateTime>2014-03-24T00:00:00.000-07:00</updateTime>
+                            <expiryTime>2014-05-23T00:00:00.000-07:00</expiryTime>
+                        </header>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>descript=upgrading of the traffic signal at Jackrabbit Trail, lane restrictions as needed</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>restricted=Y</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>future=N</respStatusOtherText>
+                    </responseReport>
+                    <responseReport>
+                        <respStatusOtherText>closure_type=Construction</respStatusOtherText>
+                    </responseReport>
+                </responseReports>
+            </idxSubParts>
+        </publicIncidentDescription>
+
+    </iMWrapper>
+</ResponseRcv>

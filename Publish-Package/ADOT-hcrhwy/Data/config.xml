@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realtime xmlns="http://www.slu.edu">
+   <Config xmlns="">
+	  <FTP>
+		<IP>ftp.az511.gov/pub/webdata</IP>
+		<Protocol>FTP</Protocol>
+		<Port>990</Port>
+		<User>Shu</User>
+		<Pwd>slu</Pwd>
+		<Folder></Folder>
+		<RealtimeData>hcrhwydata_v2.txt</RealtimeData>
+		<MetaData></MetaData>
+	  </FTP>
+	  <Local>
+        <Folder>C:\ADOT_HCR_Highway</Folder>
+        <UpdateFrequency_Realtime>300000</UpdateFrequency_Realtime>
+		<UpdateFrequency_Meta>3600000</UpdateFrequency_Meta>
+		<FormName>ADOT HCR Highway</FormName>
+	  </Local>
+	  <SharedDrive>
+		<Folder>none</Folder>
+	  </SharedDrive>
+	  <Database>
+		<Name>MDD-TRANS-80Q7Y</Name>
+		<InitialCatalog>ModotRealtimeData</InitialCatalog>
+		<User>Shu</User>
+	  </Database>
+   </Config>
+</realtime>

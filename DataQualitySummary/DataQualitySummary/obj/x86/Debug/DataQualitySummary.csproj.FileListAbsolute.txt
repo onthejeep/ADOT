@@ -1,0 +1,138 @@
+C:\C#\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\C#\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\C#\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\C#\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\C#\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\C#_WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+D:\C#\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+D:\C#\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+D:\New folder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+D:\C#_WorkFolder\ReduceRows\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+P:\Saber Abdoli\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+P:\Saber Abdoli\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Matlab-WorkFolder\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe.config
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResGen.read.1.tlog
+C:\ModotRealtimeData\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResGen.write.1.tlog
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe.config
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe.config
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+E:\SubversionEdge\MoDOT-Project\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe.config
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.pdb
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.dll
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\CommonFiles.pdb
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Form1.resources
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.Properties.Resources.resources
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\MySVN\AdotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb

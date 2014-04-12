@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realtime xmlns="http://www.slu.edu">
+   <Config xmlns="">
+	  <FTP>
+		<IP>165.134.27.10</IP>
+		<Protocol>FTP</Protocol>
+		<Port>21</Port>
+		<User>Shu</User>
+		<Pwd>slu</Pwd>
+		<Folder></Folder>
+		<RealtimeData>DetectorRealtimeData.xml</RealtimeData>
+		<MetaData>DetectorMetaData.xml</MetaData>
+	  </FTP>
+	  <Local>
+        <Folder>C:\ADOT_RealtimeData</Folder>
+        <UpdateFrequency_Realtime>5000</UpdateFrequency_Realtime>
+		<UpdateFrequency_Meta>3600000</UpdateFrequency_Meta>
+		<FormName>TimeSpanImportData</FormName>
+	  </Local>
+	  <SharedDrive>
+		<Folder>C:\ADOT_RealtimeData</Folder>
+	  </SharedDrive>
+	  <Database>
+		<Name>128.196.93.131</Name>
+		<InitialCatalog>ADOTRealtime</InitialCatalog>
+		<User>Shu</User>
+	  </Database>
+   </Config>
+</realtime>
